@@ -1,0 +1,11 @@
+name: MRVG
+
+dependencies:
+  - python=3.11.3
+  - cudatoolkit=11.8
+  - pytorch=2.0.1
+  - torchvision=0.15.2
+  - ffmpeg
+  - pip
+  - pip:
+      - -r requirements.txt
