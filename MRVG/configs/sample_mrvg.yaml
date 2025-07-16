@@ -1,6 +1,6 @@
 # path:
 ckpt_path: "../pretrained_models/lavie_base.pt"
-output_folder: "../res/freelong/"
+output_folder: "../res/mrvg/"
 pretrained_path: "../pretrained_models"
 
 # model config: 
